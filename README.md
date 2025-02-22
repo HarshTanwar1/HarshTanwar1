@@ -10,10 +10,10 @@
   <a href="www.linkedin.com/in/harshverrdhon-singh-tanwar-9a907920a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/HarshVerrdhon1/">
+  <a href="https://leetcode.com/u/HarshTanwar1/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/harshtanwar">
+  <a href="https://www.hackerrank.com/profile/HarshTanwar1">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
 </div>
@@ -24,7 +24,7 @@
 - 🎓 Computer science graduate with experience in Web Development and Data Science.
 - 📖 Completed a Data Science specialization through IBM.
 - ⚡ Equipped with relevant industry experience.
-- ❤ Passionate about coding on platforms like <a href="https://leetcode.com/HarshVerrdhon1/" target="_blank">LeetCode</a> and <a href="https://www.hackerrank.com/profile/harshtanwar">HackerRank</a> for competition and practice.
+- ❤ Passionate about coding on platforms like <a href="https://leetcode.com/u/HarshTanwar1/" target="_blank">LeetCode</a> and <a href="https://www.hackerrank.com/profile/HarshTanwar1">HackerRank</a> for competition and practice.
 
 <hr>
 
@@ -45,9 +45,9 @@
 <hr>
 
 ### 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshtanwar001&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshtanwar1&theme=dark&background=000000)](https://git.io/streak-stats)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshtanwar001&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshtanwar1&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
