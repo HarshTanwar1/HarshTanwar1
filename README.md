@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<hr>
+<hr />
 
 ### 💬 Socials
 <div align="center" id="badges">
@@ -18,43 +18,44 @@
   </a>
 </div>
 
-<hr>
+<hr />
 
 ### 👨‍💻 About Me
-- 🎓 Computer science graduate with experience in Web Development and Data Science.
-- 📖 Completed a Data Science specialization through IBM.
-- ⚡ Equipped with relevant industry experience.
-- ❤ Passionate about coding on platforms like <a href="https://leetcode.com/u/HarshTanwar1/" target="_blank">LeetCode</a> and <a href="https://www.hackerrank.com/profile/HarshTanwar1">HackerRank</a> for competition and practice.
+- 🎓 Engineering graduate by credential, Digital Alchemist by choice.
+- 💻 A passionate technophile and frontend developer.
+- 🏆 Perpetual Dean’s List inhabitant. Top 10%, every single semester.
+- 📈 Improving daily one commit at a time.
+- 🧠 Active logic hacker on <a href="https://leetcode.com/u/HarshTanwar1/" target="_blank">LeetCode</a> and <a href="https://www.hackerrank.com/profile/HarshTanwar1">HackerRank</a> for competition and practice.
 
-<hr>
+<hr />
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="70" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="70" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="70" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="70" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="Ant Design" alt="Ant Design" width="70" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="70" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="React Bootstrap" alt="React Bootstrap" width="70" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="70" style="margin-right: 10px;"/>
 </div>
 
-<hr>
+<hr />
 
 ### 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshtanwar1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshtanwar1&theme=dark)](https://git.io/streak-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshtanwar1&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
+<hr />
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 
 
