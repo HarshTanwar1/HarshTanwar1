@@ -1,58 +1,78 @@
+<div align="center">
+
 ![Header](./github-header-image.png)
 
-<hr />
+Digital alchemist currently building production frontends.
+I'm expanding across the full stack — designing backend services & APIs, modeling data layers and building end-to-end automation.
 
-### 💬 Socials
-<div align="center" id="badges">
-  <a href="mailto:harshverrdhon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="www.linkedin.com/in/harshverrdhon-singh-tanwar-9a907920a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/HarshTanwar1/">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/HarshTanwar1">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
+<a href="mailto:harshverrdhon@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/harshverrdhon-singh-tanwar-9a907920a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/HarshTanwar1/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/HarshTanwar1">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
 </div>
 
-<hr />
+---
 
 ### 👨‍💻 About Me
-- 🎓 Engineering graduate by credential, Digital Alchemist by choice.
-- 💻 A passionate technophile and frontend developer.
-- 🏆 Perpetual Dean’s List inhabitant. Top 10%, every single semester.
+- 💻 Frontend Developer — shipping production UIs with React.
+- 🚀 On a mission to become a full-stack engineer — leveling up in backend architecture, API design, databases and automation.
 - 📈 Improving daily one commit at a time.
-- 🧠 Active logic hacker on <a href="https://leetcode.com/u/HarshTanwar1/" target="_blank">LeetCode</a> and <a href="https://www.hackerrank.com/profile/HarshTanwar1">HackerRank</a> for competition and practice.
+- 🏆 Engineering graduate and perpetual Dean’s List inhabitant. Top 10%, every single semester.
+- 🧠 Sharpening problem-solving daily on [LeetCode](https://leetcode.com/u/HarshTanwar1/) & [HackerRank](https://www.hackerrank.com/profile/HarshTanwar1).
+- 📬 Open to full-stack opportunities — feel free to reach out.
 
-<hr />
+---
 
 ### 🛠️ Tech Stack
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="Ant Design" alt="Ant Design" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="React Bootstrap" alt="React Bootstrap" width="70" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="70" style="margin-right: 10px;"/>
-</div>
+**Languages**
 
-<hr />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![React Bootstrap](https://img.shields.io/badge/React%20Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+**Backend & Data**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Testing & Tools**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ### 🔥 My Stats
+<!--
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshtanwar1&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshtanwar1&theme=dark)](https://git.io/streak-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshtanwar1&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<hr />
+
+---
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
