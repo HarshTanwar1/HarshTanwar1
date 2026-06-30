@@ -2,8 +2,8 @@
 
 ![Header](./github-header-image.png)
 
-Digital alchemist currently building production frontends.
-I'm expanding across the full stack — designing backend services & APIs, modeling data layers and building end-to-end automation.
+Digital alchemist turning production frontends into full-stack craft.
+Designing backend services & APIs, modeling data layers, and automating the boring parts.
 
 <a href="mailto:harshverrdhon@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
