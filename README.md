@@ -22,12 +22,12 @@ Designing backend services & APIs, modeling data layers, and automating the bori
 ---
 
 ### 👨‍💻 About Me
-- 💻 Frontend Developer — shipping production UIs with React.
-- 🚀 On a mission to become a full-stack engineer — leveling up in backend architecture, API design, databases and automation.
-- 📈 Improving daily one commit at a time.
-- 🏆 Engineering graduate and perpetual Dean’s List inhabitant. Top 10%, every single semester.
+- 💻 **Frontend Developer** — shipping production UIs with React.
+- 🏆 Engineering graduate, perpetual Dean’s List inhabitant — **Top 10%, every single semester**.
+- 🚀 On a mission to become a full-stack engineer — leveling up in backend architecture, API design, databases & automation.
 - 🧠 Sharpening problem-solving daily on [LeetCode](https://leetcode.com/u/HarshTanwar1/) & [HackerRank](https://www.hackerrank.com/profile/HarshTanwar1).
-- 📬 Open to full-stack opportunities — feel free to reach out.
+- 📈 Improving daily, one commit at a time.
+- 📬 **Open to full-stack opportunities** — feel free to reach out.
 
 ---
 
@@ -47,7 +47,6 @@ Designing backend services & APIs, modeling data layers, and automating the bori
 ![React Bootstrap](https://img.shields.io/badge/React%20Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=black)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 **Backend & Data**
 
@@ -64,9 +63,7 @@ Designing backend services & APIs, modeling data layers, and automating the bori
 ---
 
 ### 🔥 My Stats
-<!--
-[![Harsh's GitHub stats](https://github-readme-stats-gamma-six-3hdi9t9cwq.vercel.app/api?username=harshtanwar1&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Harsh's GitHub stats](https://github-readme-stats-gamma-six-3hdi9t9cwq.vercel.app/api?username=harshtanwar1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshtanwar1&theme=dark)](https://git.io/streak-stats)
 
