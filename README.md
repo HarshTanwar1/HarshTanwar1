@@ -65,12 +65,12 @@ I'm expanding across the full stack — designing backend services & APIs, model
 
 ### 🔥 My Stats
 <!--
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshtanwar1&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+[![Harsh's GitHub stats](https://github-readme-stats-gamma-six-3hdi9t9cwq.vercel.app/api?username=harshtanwar1&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshtanwar1&theme=dark)](https://git.io/streak-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshtanwar1&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-gamma-six-3hdi9t9cwq.vercel.app/api/top-langs/?username=harshtanwar1&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
