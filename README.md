@@ -60,6 +60,7 @@ Designing backend services & APIs, modeling data layers, and automating the bori
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<!--
 ---
 
 ### 🔥 My Stats
@@ -73,7 +74,7 @@ Designing backend services & APIs, modeling data layers, and automating the bori
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 
 
 
