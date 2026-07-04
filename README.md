@@ -6,7 +6,7 @@ Digital alchemist turning production frontends into full-stack craft.
 Designing backend services & APIs, modeling data layers, and automating the boring parts.
 
 <a href="mailto:harshverrdhon@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/harshverrdhon-singh-tanwar-9a907920a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,7 +15,7 @@ Designing backend services & APIs, modeling data layers, and automating the bori
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://www.hackerrank.com/profile/HarshTanwar1">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"/>
 </a>
 </div>
 
@@ -23,7 +23,7 @@ Designing backend services & APIs, modeling data layers, and automating the bori
 
 ### 👨‍💻 About Me
 - 💻 **Frontend Developer** — shipping production UIs with React.
-- 🏆 Engineering graduate, perpetual Dean’s List inhabitant — **Top 10%, every single semester**.
+- 🏆 Engineering graduate, perpetual Dean’s List inhabitant — **Top 5%, every single semester**.
 - 🚀 On a mission to become a full-stack engineer — leveling up in backend architecture, API design, databases & automation.
 - 🧠 Sharpening problem-solving daily on [LeetCode](https://leetcode.com/u/HarshTanwar1/) & [HackerRank](https://www.hackerrank.com/profile/HarshTanwar1).
 - 📈 Improving daily, one commit at a time.
@@ -35,30 +35,30 @@ Designing backend services & APIs, modeling data layers, and automating the bori
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1677ff?style=for-the-badge&logo=antdesign&logoColor=white)
 ![React Bootstrap](https://img.shields.io/badge/React%20Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=black)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-F05E1C?style=for-the-badge&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 **Backend & Data**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Testing & Tools**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD68?style=for-the-badge&logo=playwright&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 ---
